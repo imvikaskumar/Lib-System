@@ -17,7 +17,7 @@ use App\Models\OverTimeKeppingBookDue;
 */
 
 Route::get('/', function () {
-    
+
     return view('welcome');
 });
 
